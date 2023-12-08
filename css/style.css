@@ -518,7 +518,7 @@ body._lock {
 .main-body {
   flex: 1 1 auto;
   min-height: 100%;
-  background: url("../img/main.png") top center/cover no-repeat;
+  background: url("../img/karernyy.jpg") top center/cover no-repeat;
   display: flex;
   justify-content: flex-end;
   flex-direction: column;
