@@ -532,6 +532,8 @@ body._lock {
   line-height: 1.35;
   max-width: 550px;
   color: #fff;
+  padding:6px 12px;
+   background-color:#0a0a0a42;
 }
 .main-body__links {
   margin-bottom: 35px;
